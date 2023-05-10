@@ -56,6 +56,7 @@ body {
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     width: 100%;
     padding: 10px;
+    word-wrap: break-word;
 }
 
 .cv p {
@@ -74,6 +75,7 @@ body {
     width: 100%;
     margin-top: 20px;
     padding: 10px;
+    word-wrap: break-word;
 }
 
 .proyecto p {
